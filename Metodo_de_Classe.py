@@ -14,7 +14,7 @@ class Pessoa:
 
     @classmethod
     def nome_e_atributo_de_class(cls):
-        return f'{cls}-olhos {cls.olhos}'
+        return f'{cls}-Olhos {cls.Olhos}'
 
 
 if __name__ == '__main__':
